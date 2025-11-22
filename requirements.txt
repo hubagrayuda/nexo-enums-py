@@ -7,7 +7,7 @@ distlib==0.4.0
 filelock==3.19.1
 identify==2.6.13
 mypy_extensions==1.1.0
-nexo-types==0.0.1
+nexo-types==0.0.2
 nodeenv==1.9.1
 packaging==25.0
 pathspec==0.12.1
